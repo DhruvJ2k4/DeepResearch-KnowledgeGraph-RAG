@@ -1,0 +1,33 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+config.py
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Dependency directories
+venv/
+__pycache__/
+
+# Build artifacts
+*.class
+*.o
+*.so
+*.exe
+*.dll
+*.pyc
+*.pyo
+*.pdf
+*.json
+*.jsonl
+*.faiss
+*.pkl
+dist/
+build/
+target/
